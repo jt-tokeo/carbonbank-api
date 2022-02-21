@@ -1,0 +1,7 @@
+{
+    "host" : "**.**.**.**",
+    "port" : 27020,
+    "login" : "youradminlogin",
+    "password" : "yourpassword",
+    "basename" : "carbon"
+}
